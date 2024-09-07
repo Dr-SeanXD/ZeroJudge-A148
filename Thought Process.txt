@@ -1,0 +1,5 @@
+The first number on the first line is 1, which means the next input will be 1 number. Since 60 > 59, the output is "no."
+
+On the second line, the first number is 3, indicating the next input will be 3 numbers: 0, 80, and 75. The average of these three numbers is 51.6. Since 51.6 is not greater than 59, the output is "yes."
+
+On the third line, the first number is 5, and the next input will be 5 numbers. The average is 59.8. Since 59.8 > 59, the output is "no."
